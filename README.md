@@ -6,4 +6,4 @@ The project uses CSS Grid Layout.
 
 [Project webpage](https://kelwynoliveira.github.io/WildBeast/)
 
-![](./thumb.PNG)
+[![](./thumb.PNG)](https://kelwynoliveira.github.io/WildBeast/)
