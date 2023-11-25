@@ -4,6 +4,6 @@ Project developed in the CSS GRID LAYOUT course - [Origamid](https://www.origami
 
 The project uses CSS Grid Layout.
 
-[Project webpage](https://github.com/kelwynOliveira/WildBeast)
+[Project webpage](https://kelwynoliveira.github.io/WildBeast/)
 
 ![](./thumb.PNG)
